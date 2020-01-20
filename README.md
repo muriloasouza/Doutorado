@@ -1,3 +1,3 @@
 # Doutorado
 
-Datasets e notebooks jupyter feitos durante o doutorado
+Datasets e notebooks jupyter feitos durante o doutorado.
