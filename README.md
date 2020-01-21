@@ -1,4 +1,4 @@
-# Doutorado
+# Doctorate
 
 Datasets and Jupyter notebooks made during the doctorate degree course.
 
