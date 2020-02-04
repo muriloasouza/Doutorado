@@ -13,3 +13,5 @@ https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-ker
 3 - House_Regression.txt: This problem involves predicting house value based on properties of the house and neighborhood.
 
 4 - Car_Prediction.txt: This problem involves predicting the number of car sales per month.
+
+5 - Household_Power_Consumption: https://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip
