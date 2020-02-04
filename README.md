@@ -14,4 +14,4 @@ https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-ker
 
 4 - Car_Prediction.txt: This problem involves predicting the number of car sales per month.
 
-5 - Household_Power_Consumption: https://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip
+5 - Household_Power_Consumption: Multivariate Time-Series that contains 2075259 measurements gathered in a house located in Sceaux (7km of Paris, France) between December 2006 and November 2010 (47 months). Download from: https://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip
