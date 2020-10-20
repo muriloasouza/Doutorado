@@ -6,7 +6,7 @@ Algumas bases de dados foram obtidas em:
 
 https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/
 
-1 - Radar_Bin_Class.txt: Essa base de dados é utilizada para prever se uma estrutura está ou não na atmosfrea dado retorno de sinal de um radar.
+1 - Radar_Bin_Class.txt: Essa base de dados é utilizada para prever se uma estrutura está ou não na atmosfera dado retorno de sinal de um radar.
 
 2 - Flower_Multiclass.txt: Essa base de dados é utilizada para prever a espécie de flores iris dado as medidas das flores.
 
