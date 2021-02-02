@@ -2,9 +2,9 @@
 
 Base de dados e notebooks Jupyter feitos durante o curso de doutorado.
 
-Algumas bases de dados foram obtidas em:
+Algumas bases de dados e os códigos aqui mostrados foram obtidos em:
 
-https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/
+https://machinelearningmastery.com/
 
 1 - Radar_Bin_Class.txt: Essa base de dados é utilizada para prever se uma estrutura está ou não na atmosfera dado retorno de sinal de um radar.
 
