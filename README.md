@@ -14,6 +14,6 @@ https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-ker
 
 4 - Car_Prediction.txt: Essa base de dados é utilizada para prever a quantidade de carros vendidos mensalmente.
 
-5 - Household_Power_Consumption: Série temporal multivariável que contem 2075259 medidas que foram colhidas em uma casa localizada em Sceaux (7km distante de Paris) entre 12/1206 e 11/2010 (47 meses). Obtida em: https://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip
+5 - Household_Power_Consumption: Série temporal multivariável que contem 2075259 medidas que foram colhidas em uma casa localizada em Sceaux (7km distante de Paris) entre 12/2006 e 11/2010 (47 meses). Obtida em: https://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip
 
 6 - pokemon.csv: Uma base de dados de pokémons que pode ser utilizada para aprender a usar o Pandas para manipulação de dados. Obtida em: https://drive.google.com/drive/folders/1IL2tszyJKNrzqH-FbIU9ZEWHLHzOliRl
